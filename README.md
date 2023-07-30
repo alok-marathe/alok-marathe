@@ -36,9 +36,9 @@ I love learning Japanese 🗾 <br>
 Feel free to explore them and provide any feedback or suggestions!
 
 <h2>Contact</h2>
-You can reach out to me via email at <a href=mailto:"alok.v.marathe@gmail.com">📧</a> or connect with me on the following platforms, if you'd like to collaborate on a project, discuss ideas, or just have a chat! <br>
+You can reach out to me via email at <a href=mailto:"alok.v.marathe@gmail.com">📧</a> or connect with me on the following platforms, if you'd like to collaborate on a project, discuss ideas, or just have a chat! <br><br>
 
-<p align="center">
+<p>
   <a href="[https://skillicons.dev](https://www.linkedin.com/in/alok-marathe-0a727620b/)">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
