@@ -4,7 +4,7 @@ I'm Alok Marathe, a Software Engineer based in Pune, India.
 Welcome to my GitHub profile! Here, you'll find a collection of projects and contributions that reflect my passion for Coding.
 
 <h2>Background</h2>
-<b>A little bit about myself:<br></b> I passed my 10th and 12th with good grades <i>83.80%</i> and <i>78.15%</i> respectively. I started coding in 1st year and have code since then. Currently I am studying Japanese and I hope one day I will reach there 😁
+<b>A little bit about myself:<br></b> I passed my 10th and 12th with good grades <i>83.80%</i> and <i>78.15%</i> respectively. I started coding in 1st year and have code since then. Currently I am studying Japanese and I hope one day I will reach there one day 😁
 
 <h2>Interests</h2>
 <b>Some of the things that fascinate me the most are:</b>
