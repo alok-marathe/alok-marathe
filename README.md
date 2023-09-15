@@ -31,7 +31,10 @@ I love learning Japanese 🗾 <br>
 <h2>Projects</h2>
 <b>Here are some of the projects I've worked on:</b><br>
 
-- Product Landing Page - Using HTML, CSS and JavaScript created a product landing page for selling instruments.
+- Product Landing Page
+- Portfolio Website
+- Instagram clone
+- Contact Manager App
 
 Feel free to explore them and provide any feedback or suggestions!
 
